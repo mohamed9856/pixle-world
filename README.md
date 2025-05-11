@@ -1,13 +1,39 @@
-2D-platformer-Game-Unity
-2D Tilemap Platformer Unity Create your own 2D platformer game with ease using this Unity project template. This repository provides a foundation for building classic side-scrolling platformers with Unity's powerful 2D features.
+# Pixel World - 2D Platformer Game (Unity)
 
-Features:
-Tilemap Integration: Leverage Unity's Tilemap system for efficient level design and quick iteration.
+![image](https://github.com/user-attachments/assets/54841c93-cf3b-448f-a52f-98506e04a9dd)
 
-Player Controller: A customizable player controller script with smooth movement and double jump movement.
+## 🎮 Description  
+*A classic 2D platformer built with Unity's Tilemap system - featuring smooth movement, double jumps, and responsive controls.*
 
-Animated Player Controller: Player control with Idle, Run, Jump animations implemented in the project.
+---
 
-Game Manager and UI Manager: Systems to manage gameplay.
+## ✨ Key Features
 
-Player Death and Respawning: Respawn and death system.
+### 🏗️ Core Systems
+- **Tilemap Integration** - Build levels with Unity's powerful tilemap editor  
+- **Player Controller** - Customizable movement with double jump capability  
+- **Animation System** - Complete with idle, run, and jump animations  
+
+### 🎮 Game Management
+- Game state handling  
+- UI system for menus and HUD  
+- Scene transition system  
+
+### ⚡ Gameplay Elements
+- Health and damage system  
+- Death/respawn mechanics  
+- Collectible items and scoring  
+
+---
+
+## 🚀 Getting Started
+
+### 📥 Installation
+1. Clone this repository  
+2. Open in Unity 2021.3+  
+3. Navigate to `Assets/Scenes/Start.unity`  
+
+### 🕹️ Controls
+- **Movement**: Arrow Keys/AD for left and right
+- **Jump**: Space
+- **Attack**: F
